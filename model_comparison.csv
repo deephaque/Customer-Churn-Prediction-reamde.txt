@@ -1,0 +1,3 @@
+model,ROC-AUC,PR-AUC,Brier (lower=better)
+RandomForest (main),0.841,0.647,0.152
+LogisticRegression (baseline),0.842,0.633,0.169
